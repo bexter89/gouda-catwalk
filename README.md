@@ -76,6 +76,7 @@ npm start
 - [Material UI](https://mui.com/)
 
 ## Product Overview (Rebekah Cruz) <a name="overview"></a>
+[Imgur](https://imgur.com/oNZSvjG)
 **Product Overview Section**
 * A carousel displays the current item, which can be maximized to full screen to get a larger view of the product's image, and navigated via the mouse or keyboard. 
 * Each selected item may have additional styles which, if avaialble, will be rendered on the right of the screen as thumbnails, with the current selected item having a check mark.
