@@ -76,6 +76,13 @@ npm start
 - [Material UI](https://mui.com/)
 
 ## Product Overview (Rebekah Cruz) <a name="overview"></a>
+**Product Overview Section**
+* A carousel displays the current item, which can be maximized to full screen to get a larger view of the image, and navigated via the mouse or keyboard. 
+* Each selected item may have additional styles which, if avaialble, will be rendered on the right of the screen as thumbnails, with the current selected item having a check mark.
+* Blurbs are visible below the carousel that displays various features associated to the current selected item
+* To the right of the carousel, you can select a size and quantity, depending on the available inventory
+* The item price dynamically renders according to whether or not the selected item is on sale
+
 
 ## Related Products & Outfit Section (Maria Kim) <a name="products"></a>
 **Related Products Section**
