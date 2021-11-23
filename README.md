@@ -77,8 +77,6 @@ npm start
 
 ## Product Overview (Rebekah Cruz) <a name="overview"></a>
 
-<img  align="left" src="https://i.ibb.co/RhHYWbS/product-overview.gif" alt="product-overview" border="0" />
-
 <img src="https://i.ibb.co/RhHYWbS/product-overview.gif" alt="product-overview" border="0" />
 
 
