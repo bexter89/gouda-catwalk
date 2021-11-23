@@ -89,6 +89,8 @@ npm start
 
 
 ## Related Products & Outfit Section (Maria Kim) <a name="products"></a>
+<img src="https://tinyimg.io/i/FSVc4bq.gif" alt="related-products-and-outfits" border="0" />
+
 **Related Products Section**
 * A React-Grid-Carousel component displays four products related to the featured product in the overview section
 * Each product is represented in a Material UI Card component
