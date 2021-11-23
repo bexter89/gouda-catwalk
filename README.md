@@ -102,7 +102,9 @@ npm start
 * Customers can add or remove products from their Outfits Section by clicking on the star icon
 
 ## Questions and Answers (Matthew Sewell) <a name="questions"></a>
+<img src="https://tinyimg.io/i/Dk0BSW7.gif" alt="questions-answers" border="0" />
+
 
 ## Ratings and Reviews (Rob Williams) <a name="reviews"></a>
-
+<img src="https://tinyimg.io/i/Dk0BSW7.gif" alt="ratings-reviews" border="0" />
 
