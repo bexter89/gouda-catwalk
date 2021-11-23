@@ -78,7 +78,7 @@ npm start
 ## Product Overview (Rebekah Cruz) <a name="overview"></a>
 [Imgur]
 
-<img align="left" src=http://g.recordit.co/g4xXvqpbek.gif" alt="product-overview">
+<img align="left" src="http://g.recordit.co/g4xXvqpbek.gif" alt="product-overview">
 
 **Product Overview Section**
 * A carousel displays the current item, which can be maximized to full screen to get a larger view of the product's image, and navigated via the mouse or keyboard. 
