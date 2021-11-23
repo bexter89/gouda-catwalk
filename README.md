@@ -78,7 +78,7 @@ npm start
 ## Product Overview (Rebekah Cruz) <a name="overview"></a>
 [Imgur]
 
-<img align="left" src="https://lh3.googleusercontent.com/oKEpL8_eyOgznp5omPNp9vFPM56IytCqHi4IVWGmoQIaoNbBbZY5HQ6q4ML4qizLUOJvgMXtgDW7LLTZQTjQWcti1JKVq21w5tjcFp0l-hx-ubE-Nd1vBMjNar66AdFWK3Y3JNem2FpxcOdpzGpCL6fM_vzzE4pY9isE_rwIQBwyYD-j_Rmxr_YeJS_5eHIySy6t5TRdO0IyDe4xn4XegcY-Ytk0zvgpdi3M11IToEsl9E0hLCeXzb8RwehMfXLJdTp7NE7rwVdNRvUyI9iI-49arzxKAth44Y9ijXzy-GFM1X9istuCXjSCM9f6I53e6MFuUusYQ0CKKZWCMDxZ2u7nvWyJYerwdhFIt64geeRZhSe-bDofhbIf5JcRMYb07Nr2rGb4vjL4DSY1g3f_J-IKxg6xB2Lkgw3tJa66CIgkhKA1t2mcHGhdSWXw7DN1yDQyEjWpvJpeQ05VSOX9peR9z4RFs-9Pv0ws1UE_CC1C5iXOcMXWt1xTYE-bpgj6wNj6NUHtO6UVksvX4q2P5KSwN23Cj0SeKNXXB9Scp8Mt7SrHBSkAkLx3mCTzsP7O5X8XBVv-AmYuwk9G6e3ADTcSZ8JEkNfLMYlzzjsTFBEGfhbMrpLgC3UdMp5HKMpPjQJdf89ImRLy6D6nfvIgolW2ADQthoCtRMSFLqCDo7gla8kTPAVxhoLL6d6ffj6ULOj0hOaQk9mpadJQH6z50iQ=w1237-h761-no?authuser=0" alt="product-overview">
+<img align="left" src=http://g.recordit.co/g4xXvqpbek.gif" alt="product-overview">
 
 **Product Overview Section**
 * A carousel displays the current item, which can be maximized to full screen to get a larger view of the product's image, and navigated via the mouse or keyboard. 
