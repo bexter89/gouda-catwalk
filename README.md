@@ -106,5 +106,5 @@ npm start
 
 
 ## Ratings and Reviews (Rob Williams) <a name="reviews"></a>
-<img src="https://tinyimg.io/i/Dk0BSW7.gif" alt="ratings-reviews" border="0" />
+<img src="https://tinyimg.io/i/xgj7byY.gif" alt="ratings-reviews" border="0" />
 
